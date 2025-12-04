@@ -35,7 +35,7 @@ You need **Python** installed on your computer.
 Click the green **Code** button at the top of this page and select **Download ZIP**, or clone the repository:
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/bulk-image-resizer-lite.git](https://github.com/YOUR_USERNAME/bulk-image-resizer-lite.git)
+git clone [https://github.com/YOUR_USERNAME/bulk-image-resizer-lite.git](https://github.com/anshiket/bulk-image-resizer-lite.git)
 
 Step 2: Install Dependencies
 Open your terminal (Command Prompt) in the folder where you downloaded the script and run:
@@ -82,3 +82,4 @@ Enjoy the tool!
 *=========== Need Help ===========*
 
 akeg.manager.gaming@gmail.com
+
