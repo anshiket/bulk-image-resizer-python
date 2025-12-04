@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Made%20with-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Lite Version](https://img.shields.io/badge/Version-Lite%20(Trial)-orange?style=flat-square)]()
-[![Get Full Version](https://img.shields.io/badge/Get%20Full%20Version-Gumroad-ff90e8?style=for-the-badge&logo=gumroad&logoColor=000)]([https://anshika636.gumroad.com/l/image-tool])
+[![Get Full Version](https://img.shields.io/badge/Get%20Full%20Version-Gumroad-ff90e8?style=for-the-badge&logo=gumroad&logoColor=000)](https://anshika636.gumroad.com/l/image-tool)
 
 **Automate your image resizing workflow in seconds.**
 
@@ -82,5 +82,6 @@ Enjoy the tool!
 *=========== Need Help ===========*
 
 akeg.manager.gaming@gmail.com
+
 
 
