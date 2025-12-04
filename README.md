@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Made%20with-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Lite Version](https://img.shields.io/badge/Version-Lite%20(Trial)-orange?style=flat-square)]()
-[![Get Full Version](https://img.shields.io/badge/Get%20Full%20Version-Gumroad-ff90e8?style=for-the-badge&logo=gumroad&logoColor=000)]([INSERT YOUR GUMROAD LINK HERE])
+[![Get Full Version](https://img.shields.io/badge/Get%20Full%20Version-Gumroad-ff90e8?style=for-the-badge&logo=gumroad&logoColor=000)]([https://anshika636.gumroad.com/l/image-tool])
 
 **Automate your image resizing workflow in seconds.**
 
@@ -20,7 +20,7 @@ This is the **Lite / Test Version** of the Bulk Image Resizer. It allows you to 
 | **Usage Limit** | **3 Runs Only** | **Unlimited** |
 | **Support** | Community | Priority |
 
-> **Ready to unlock unlimited runs?** [**Click here to get the Full Version on Gumroad**]([INSERT YOUR GUMROAD LINK HERE])
+> **Ready to unlock unlimited runs?** [**Click here to get the Full Version on Gumroad**]([https://anshika636.gumroad.com/l/image-tool])
 
 ---
 
@@ -80,4 +80,5 @@ If you encounter any bugs during your trial runs, please open an Issue in the "I
 Enjoy the tool!
 
 *=========== Need Help ===========*
+
 akeg.manager.gaming@gmail.com
